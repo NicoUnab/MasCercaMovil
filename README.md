@@ -1,16 +1,33 @@
-# mas_cerca_movil
+# MasCercaMovil
 
-A new Flutter project.
 
-## Getting Started
+## Tipo 馃摉
 
-This project is a starting point for a Flutter application.
+_Aplicacion_
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Descripci贸n 馃搵
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_Aplicacion que permite administrar los reportes generados para darles seguimiento y respuesta._
+
+
+## Despliegue 馃摝
+
+
+
+***PRODUCCI脫N 1:*** 
+* Servidor: localhost
+* URL: http://localhost/MasCercaMovil
+* Pool de aplicaciones: MasCercaMovil
+* Ruta: \\\localhost\Aplicacion\MasCercaMovil
+
+
+## Construido con 馃洜锔?
+
+* _Flutter_
+
+
+## Desarrolladores 鉁掞笍
+
+* **Nicolas Rojas** - *Desarrollo* - <n.rojasarriagada@uandresbello.edu>
+* **Nicolas Rojas** - *Jefe de Proyectos* - <n.rojasarriagada@uandresbello.edu>
